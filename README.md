@@ -10,7 +10,7 @@ I want to start working as a freelancer, but first I need to learn more things b
 
 ## Interests
 
-It's simple: I'm interested in make people happy with code, and imrpove their life's quality. I think we can do **anything** with programming, and I want to use that ideal to help my loved ones.
+It's simple: I'm interested in make people happy with code, and improve their life's quality. I think we can do **anything** with programming, and I want to use that ideal to help my loved ones.
 
 If your project or work has that objective, I would be happy to be part of that.
 
@@ -26,6 +26,11 @@ If your project or work has that objective, I would be happy to be part of that.
 - 〽️ Haskell
 - 🐈 C#
 - ®️ Rust
+- 🔰 JavaScript / TypeScript
+
+## Frameworks
+- Flutter (Medium Knowledge)
+- React (Minnor Knowledge)
 
 ## Footnote
 
