@@ -29,8 +29,9 @@ If your project or work has that objective, I would be happy to be part of that.
 - 🔰 JavaScript / TypeScript
 
 ## Frameworks
-- Flutter (Medium Knowledge)
-- React (Minnor Knowledge)
+- Flutter (High Knowledge)
+- React (Medium Knowledge)
+- Ionic React (Medium Knownledge)
 
 ## Footnote
 
