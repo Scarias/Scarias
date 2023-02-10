@@ -8,7 +8,7 @@ I'm student from *Universidad Técnica Federico Santa María* (*UTFSM*), where I
 
 I want to start working as a freelancer, but first I need to learn more things before. Stay tunned!
 
-## Interests
+## Ideals
 
 It's simple: I'm interested in make people happy with code, and improve their life's quality. I think we can do **anything** with programming, and I want to use that ideal to help my loved ones.
 
@@ -17,21 +17,33 @@ If your project or work has that objective, I would be happy to be part of that.
 ## Languages
 
 ### High knowledge
-- 🐍 Python 3.x
-- *⃣ C/C++
-- 🎯 Dart
-- ☕ Java
+[![High knowledge](https://skillicons.dev/icons?i=py,c,cpp,dart,java)](https://skillicons.dev)
+
+### Medium knowledge
+[![Medium knowledge](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ### Minnor knowledge
-- 〽️ Haskell
-- 🐈 C#
-- ®️ Rust
-- 🔰 JavaScript / TypeScript
+[![Minnor knowledge](https://skillicons.dev/icons?i=rust,css,cs,haskell)](https://skillicons.dev)
 
-## Frameworks
+## Technologies
+
+### Web development Frameworks
+- Front-End development <br/>
+[![Front-end development](https://skillicons.dev/icons?i=react,vue,tailwind)](https://skillicons.dev)
+- Back-End development <br/>
+[![Back-end development](https://skillicons.dev/icons?i=flask,nodejs)](https://skillicons.dev)
+- BaaS <br/>
+[![BaaS](https://skillicons.dev/icons?i=firebase,supabase)](https://skillicons.dev)
+
+### Multi-platform development Frameworks
+[![Multi-platform development](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 - Flutter (High Knowledge)
-- React (Medium Knowledge)
-- Ionic React (Medium Knownledge)
+- Ionic (Medium Knownledge)
+  - Ionic React
+  - Ionic Vue
+
+### Game development
+[![Game development](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
 
 ## Footnote
 
